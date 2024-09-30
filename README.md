@@ -5,7 +5,7 @@ WeatherWatch is a user-friendly weather application developed by Chetan Singh Bi
 ## Features
 
 - **Real-Time Weather Updates**: Get the latest weather information for any location worldwide.
-- **Hourly and Daily Forecasts**: Access detailed weather forecasts to plan your day or week.
+- **Hourly and Daily Forecasts**: Access detailed weather forecasts to plan your day.
 - **Intuitive Interface**: Navigate easily through the app with a clean and user-friendly design.
 
 ## Technologies Used
